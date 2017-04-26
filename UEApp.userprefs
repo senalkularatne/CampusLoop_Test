@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{554EB2AA-4591-4B83-A2A2-0E78342E1C3C}|Default">
+  <MonoDevelop.Ide.ItemProperties.UEApp.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UEApp/UEApp/Authentication/SocialAuthentication.cs">
+    <Files>
+      <File FileName="WebAPI/Models/Event.cs" Line="16" Column="2" />
+      <File FileName="WebAPI/Maps/EventConfiguration.cs" Line="27" Column="2" />
+      <File FileName="UEApp/UEApp/Authentication/SocialAuthentication.cs" Line="12" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
